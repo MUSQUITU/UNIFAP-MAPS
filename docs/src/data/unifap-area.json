@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "unifap-area",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 163725581, "class": "amenity", "type": "university", "name": "Universidade Federal do Amapá - UNIFAP, km 02, Avenida Copacabana, riviera residence clube, Universidade, Macapá, Região Geográfica Imediata de Macapá, Região Geográfica Intermediária de Macapá, Amapá, Região Norte, 68903-585, Brasil", 
+"address": "\"amenity\"=>\"Universidade Federal do Amapá - UNIFAP\",\"house_number\"=>\"km 02\",\"road\"=>\"Avenida Copacabana\",\"residential\"=>\"riviera residence clube\",\"suburb\"=>\"Universidade\",\"city_district\"=>\"Macapá\",\"city\"=>\"Macapá\",\"municipality\"=>\"Região Geográfica Imediata de Macapá\",\"state_district\"=>\"Região Geográfica Intermediária de Macapá\",\"state\"=>\"Amapá\",\"ISO3166-2-lvl4\"=>\"BR-AP\",\"region\"=>\"Região Norte\",\"postcode\"=>\"68903-585\",\"country\"=>\"Brasil\",\"country_code\"=>\"br\"", 
+"extratags": "\"wikidata\"=>\"Q7894381\",\"education\"=>\"university\"" }, 
+"geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -5687201.175706877373159, -1135.414284291936156 ], [ -5687144.714461146853864, -1135.1248536112887 ], [ -5686549.244240995496511, -1132.030171718359043 ], [ -5686543.500155271030962, -1074.299882929261003 ], [ -5686482.318963130936027, -734.174307301080148 ], [ -5686495.565982535481453, -718.22222416700231 ], [ -5686494.608634915202856, -657.68668472125546 ], [ -5686458.040182188153267, -630.213034253430237 ], [ -5686412.109760287217796, -394.093261557107041 ], [ -5686407.334154131822288, 263.971908593448461 ], [ -5686898.197448785416782, 274.725371413668654 ], [ -5686899.344039540737867, 193.484406977464346 ], [ -5686982.57762280665338, 197.013234837264605 ], [ -5687049.491768722422421, 197.458512800650624 ], [ -5687050.282137107104063, 103.582786187694339 ], [ -5687051.862873876467347, -84.26885453295975 ], [ -5687053.098520223982632, -230.531533533984287 ], [ -5687057.050362147390842, -698.652257564818228 ], [ -5687196.78971893992275, -699.843376123464395 ], [ -5687200.518921880982816, -1032.644128906141304 ], [ -5687197.713670713827014, -1054.841235667542605 ], [ -5687201.175706877373159, -1135.414284291936156 ] ] ] ] } }
+]
+}
